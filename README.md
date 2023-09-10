@@ -1,4 +1,4 @@
-# 💫 High Alert :
+# ⚠️ Alert : 🚨
 👋 Hi, I’m really sorry but my username has changed from @mreshanktyagi to @mreshank, so kindly redirect to https://github.com/mreshank to access my profile .. thank you for your patience !
 
 
@@ -15,7 +15,10 @@
 
 
 
-- 👋 Hi, I’m really sorry but my username has changed from @mreshanktyagi to @mreshank, so kindly redirect to https://github.com/mreshank to access my profile .. thank you for your patience !
+- 👋 Hey, really sorry but the way.
+- Here is the link : [@mreshank](https://github.com/mreshank)
+- Full Link : https://github.com/mreshank
+- have a nice day !
 
 <!---
 mreshanktyagi/mreshanktyagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
