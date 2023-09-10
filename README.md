@@ -1,24 +1,23 @@
-# ⚠️ Alert : 🚨
-👋 Hi, I’m really sorry but my username has changed from [@mreshanktyagi](https://github.com/mreshanktyagi) to [@mreshank](https://github.com/mreshank), so kindly redirect to https://github.com/mreshank to access my profile .. thank you for your patience !
+# ⚠️ ALERT : 🚨
+👋 HI, I’M REALLY SORRY BUT MY USERNAME HAS CHANGED FROM [@mreshanktyagi](https://github.com/mreshanktyagi) TO [@mreshank](https://github.com/mreshank), SO KINDLY REDIRECT TO https://github.com/mreshank TO ACCESS MY PROFILE .. THANK YOU FOR YOUR PATIENCE !
 
 
-
-## 💻 Direct Link [](https://github.com/mreshank) : [![Github : Eshank Tyagi](https://img.shields.io/badge/GitHub%20:%20Eshank%20Tyagi-8A2BE2?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2Fmreshank)](https://github.com/mreshank) 
+## 💻 DIRECT LINK :[:](https://github.com/mreshank) [![Github : Eshank Tyagi](https://img.shields.io/badge/GitHub%20:%20Eshank%20Tyagi-8A2BE2?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2Fmreshank)](https://github.com/mreshank) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mreshanktyagi&icon=0&color=0)](https://visitcount.itsvg.in)
-  ## -> You can help me by Redirecting to my profile
-  [![Github : Eshank Tyagi](https://img.shields.io/badge/GitHub%20:%20Eshank%20Tyagi-8A2BE2?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2Fmreshank)](https://github.com/mreshank) 
+  ## -> YOU CAN HELP ME BY REDIRECTING TO MY PROFILE
+  [![GITHUB : ESHANK TYAGI](https://img.shields.io/badge/GitHub%20:%20Eshank%20Tyagi-8A2BE2?style=social&logo=github&link=https%3A%2F%2Fgithub.com%2Fmreshank)](https://github.com/mreshank) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-- 👋 Hey, really sorry but the way.
-- Here is the link : [@mreshank](https://github.com/mreshank)
-- Full Link : https://github.com/mreshank
-- have a nice day !
+- 👋 HEY, REALLY SORRY BUT THE WAY.
+- HERE IS THE LINK : [@mreshank](https://github.com/mreshank)
+- FULL LINK : https://github.com/mreshank
+- HAVE A NICE DAY !
 
 <!---
 mreshanktyagi/mreshanktyagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
