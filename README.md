@@ -15,7 +15,7 @@
 
 
 
-- 👋 HEY, REALLY SORRY BUT THE WAY.
+- 👋 AGAIN, REALLY SORRY BY THE WAY.
 - HERE IS THE LINK : [@mreshank](https://github.com/mreshank)
 - FULL LINK : https://github.com/mreshank
 - HAVE A NICE DAY !
